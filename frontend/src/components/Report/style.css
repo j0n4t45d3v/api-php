@@ -1,0 +1,16 @@
+.container-report {
+  height: 97vh;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.report-style {
+  width: 50%;
+  text-align: justify;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 5px;
+}
